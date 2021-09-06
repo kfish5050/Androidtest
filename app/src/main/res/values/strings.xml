@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android Test</string>
+    <string name="edit_message"># of questions</string>
+    <string name="button_send">Start</string>
+    <string name="header">Take test</string>
+    <string name="questions">Questions available: </string>
+    <string name="score">Your score is: </string>
+    <string name="defaultValueQs">0</string>
+    <string name="your_score">Your score is: </string>
+    <string name="play_again">Play Again</string>
+
+    <!-- Error messages -->
+    <string name="error_file_not_found">Error, file not found</string>
+    <string name="error_ntb">Quiz cannot generate more questions than available</string>
+
+</resources>
